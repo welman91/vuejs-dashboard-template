@@ -1,0 +1,19 @@
+:root {
+	/* Lightmode */
+	--bgNavbar-lightmode: linear-gradient(to left, #eef2f3, #eef2f3);
+	--bgNavbar-lightmode-reverse: linear-gradient(to right, #eef2f3, #eef2f3);
+	--colorNavbar-lightmode: #444;
+	--bgSidebar-lightmode: #eef2f3;
+	--colorSidebar-lightmode: #2c3e50;
+	--bgContent-lightmode: linear-gradient(to left, #e5e5f7, #eef2f3);
+	--colorContent-lightmode: #2c3e50;
+
+	/* Darkmode */
+	--bgNavbar-darkmode: linear-gradient(to left, #000000, #434343);
+	--bgNavbar-darkmode-reverse: linear-gradient(to right, #000000, #434343);
+	--colorNavbar-darkmode: #fff;
+	--bgSidebar-darkmode: #434343;
+	--colorSidebar-darkmode: #fff;
+	--bgContent-darkmode: linear-gradient(to right, #16222a, #3a6073);
+	--colorContent-darkmode: #fff;
+}
